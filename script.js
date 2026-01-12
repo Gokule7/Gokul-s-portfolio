@@ -222,6 +222,16 @@ const projectData = {
         document: 'projects/smart_trafic/SmartTrafficSimulator.pdf',
         videos: []
     },
+    'live-polling': {
+        title: 'Resilient Live Polling System',
+        description: 'A real-time polling application enabling teachers to create timed polls and students to vote with automatic state recovery from page refreshes and server-synchronized timers for late joiners. Features clean separation with Controller-Service pattern on backend, custom hooks (useSocket, usePollTimer, useStudentName) on frontend, and persistent chat system with live vote updates across all connected clients.',
+        technologies: ['React.js', 'Context API', 'Custom Hooks', 'Node.js', 'Express', 'Socket.io', 'MongoDB', 'Mongoose'],
+        github: 'https://github.com/Gokule7/Live_polling_system',
+        liveLink: 'https://livepollingsystem-kappa.vercel.app',
+        backend: 'https://live-polling-backend-4gty.onrender.com',
+        document: 'projects/Live_polling_system/Resilient Live Polling System.pdf',
+        videos: []
+    },
     'legal-ai': {
         title: 'Legal-AI-Assistant',
         description: 'An AI-powered legal assistance system designed to analyze and understand legal documents. Uses natural language processing and machine learning to provide intelligent legal insights.',
@@ -249,6 +259,8 @@ demoBtns.forEach(btn => {
                 
                 <div style="margin: 2rem 0;">
                     ${project.github ? `<a href="${project.github}" target="_blank" class="modal-link"><i class="fab fa-github"></i> View on GitHub</a>` : ''}
+                    ${project.liveLink ? `<a href="${project.liveLink}" target="_blank" class="modal-link"><i class="fas fa-external-link-alt"></i> Live Demo</a>` : ''}
+                    ${project.backend ? `<a href="${project.backend}" target="_blank" class="modal-link"><i class="fas fa-server"></i> Backend API</a>` : ''}
                     ${project.document ? `<a href="${project.document}" target="_blank" class="modal-link"><i class="fas fa-file-pdf"></i> View Documentation</a>` : ''}
                 </div>
             `;

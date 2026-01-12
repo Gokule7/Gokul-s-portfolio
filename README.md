@@ -53,12 +53,69 @@ Gokul's_portfolio/
     ├── Inventory_management_system/
     │   └── Inventory Management System.png
     │
+    ├── Live_polling_system/
+    │   ├── Live_polling_system.jpg
+    │   └── Resilient Live Polling System.pdf
+    │
     └── Legal-AI/
         ├── Legal_AI.jpg
         └── 24MCA1031_Gokulnath(LegalAI_Report).pdf
 ```
 
-## 🚀 How to Run
+## � Featured Projects
+
+### 1. Smart Protector Application for Elderly People
+**Category**: Mobile Development  
+**Tech Stack**: Kotlin, XML, Firebase, SPAWearable  
+**Description**: Ensures the safety and well-being of elderly people through smart monitoring, fall detection, medication reminders, and caretaker connectivity.  
+**Links**: [GitHub](https://github.com/Gokule7/SMART-PROTECTOR-APPLICATION-FOR--ELDERLY-PEOPLE-)
+
+### 2. Eye Disease Prediction System
+**Category**: AI/ML  
+**Tech Stack**: Flutter, Flask, EfficientNetB3, Grad-CAM  
+**Description**: Predicts 5 diseases and visualizes results using deep learning with EfficientNetB3 and Grad-CAM for interpretability.  
+**Links**: [GitHub](https://github.com/Gokule7/eye-disease-prediction)
+
+### 3. Real-Time Credit Card Fraud Detection
+**Category**: AI/ML, Cloud  
+**Tech Stack**: AWS Lambda, SageMaker, API Gateway, CloudWatch, EC2  
+**Description**: Real-time fraud alerts and intelligent transaction monitoring using ML and AWS services.  
+**Links**: [GitHub](https://github.com/Gokule7/Credit-Card-Fraud-Detection)
+
+### 4. Smart Traffic Simulator
+**Category**: AI/ML  
+**Tech Stack**: JavaFX, Neural Networks, AI  
+**Description**: Simulates urban traffic with adaptive signal management using neural networks for optimization.  
+**Links**: [GitHub](https://github.com/Gokule7/-Smart-Traffic-Simulator)
+
+### 5. Resilient Live Polling System
+**Category**: Web Development  
+**Tech Stack**: React.js (Context API, Custom Hooks), Node.js/Express, Socket.io, MongoDB (Mongoose)  
+**Description**: A real-time polling application enabling teachers to create timed polls and students to vote with automatic state recovery from page refreshes and server-synchronized timers for late joiners. Features clean separation with Controller-Service pattern on backend, custom hooks (useSocket, usePollTimer, useStudentName) on frontend, and persistent chat system with live vote updates across all connected clients.  
+**Key Features**:
+- Unique compound indexes for duplicate vote prevention
+- Automatic state recovery from page refreshes
+- Server-synchronized timers for late joiners
+- Real-time updates using WebSockets
+
+**Links**: 
+- [GitHub](https://github.com/Gokule7/Live_polling_system)
+- [Live Demo](https://livepollingsystem-kappa.vercel.app)
+- [Backend API](https://live-polling-backend-4gty.onrender.com)
+
+### 6. Inventory Management System
+**Category**: Web Development  
+**Tech Stack**: PHP, JavaScript, CSS, SQL  
+**Description**: Store and fetch all the inventory data with a comprehensive web-based management solution.  
+**Links**: [GitHub](https://github.com/Gokule7/Inventory_management_system)
+
+### 7. Legal-AI-Assistant
+**Category**: AI/ML  
+**Tech Stack**: AI, NLP, Machine Learning  
+**Description**: AI-powered legal assistance system for analyzing and understanding legal documents.  
+**Links**: [GitHub](https://github.com/Gokule7/Legal-AI-Assistant)
+
+## �🚀 How to Run
 
 ### Option 1: Simple File Open
 1. Navigate to the project folder
