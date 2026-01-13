@@ -57,6 +57,10 @@ Gokul's_portfolio/
     │   ├── Live_polling_system.jpg
     │   └── Resilient Live Polling System.pdf
     │
+    ├── AI&ML_Bootcamp_Project's/
+    │   └── Day 1 project/
+    │       └── AI-Based Student Placement Prediction System.jpg
+    │
     └── Legal-AI/
         ├── Legal_AI.jpg
         └── 24MCA1031_Gokulnath(LegalAI_Report).pdf
@@ -114,7 +118,23 @@ Gokul's_portfolio/
 **Tech Stack**: AI, NLP, Machine Learning  
 **Description**: AI-powered legal assistance system for analyzing and understanding legal documents.  
 **Links**: [GitHub](https://github.com/Gokule7/Legal-AI-Assistant)
+---
 
+## 🎓 AI & ML Bootcamp Projects
+
+### Day 1: AI-Based Student Placement Prediction System
+**Category**: AI/ML Bootcamp  
+**Tech Stack**: Python, Scikit-learn, Pandas, NumPy  
+**Description**: A machine learning project developed during the AI & ML Bootcamp. This system predicts student placement outcomes based on various academic performance indicators, skills, and other relevant factors. Built using scikit-learn for model training and pandas for data preprocessing. Implements classification algorithms to achieve accurate placement predictions.  
+**Key Features**:
+- Data preprocessing and feature engineering
+- Multiple classification algorithms implementation
+- Model evaluation and performance metrics
+- Accurate placement outcome predictions
+
+**Links**: [GitHub](https://github.com/Gokule7/AI-Based-Student-Placement-Prediction-System)
+
+---
 ## �🚀 How to Run
 
 ### Option 1: Simple File Open

@@ -239,6 +239,13 @@ const projectData = {
         github: 'https://github.com/Gokule7/Legal-AI-Assistant',
         document: 'projects/Legal-AI/24MCA1031_Gokulnath(LegalAI_Report).pdf',
         videos: []
+    },
+    'bootcamp-day1': {
+        title: 'Day 1: AI-Based Student Placement Prediction System',
+        description: 'A machine learning project developed during the AI & ML Bootcamp. This system predicts student placement outcomes based on various academic performance indicators, skills, and other relevant factors. Built using scikit-learn for model training and pandas for data preprocessing. Implements classification algorithms to achieve accurate placement predictions.',
+        technologies: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Machine Learning', 'Data Analysis', 'Classification'],
+        github: 'https://github.com/Gokule7/AI-Based-Student-Placement-Prediction-System',
+        videos: []
     }
 };
 
