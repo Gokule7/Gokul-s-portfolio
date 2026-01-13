@@ -57,7 +57,7 @@ Gokul's_portfolio/
     │   ├── Live_polling_system.jpg
     │   └── Resilient Live Polling System.pdf
     │
-    ├── AI&ML_Bootcamp_Project's/
+    ├── AI_ML_Bootcamp_Projects/
     │   └── Day 1 project/
     │       └── AI-Based Student Placement Prediction System.jpg
     │
